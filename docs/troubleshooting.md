@@ -1,6 +1,6 @@
 # Диагностика: Менеджер Telegram-аккаунтов
 
-Ситуации, с которыми чаще всего обращаются по этому модулю. Общая диагностика запусков — в [документации](https://telegain-guides.github.io/troubleshooting/).
+Ситуации, с которыми чаще всего обращаются по этому модулю. Общая диагностика запусков — в [документации](https://teletraff-guides.github.io/troubleshooting/).
 
 ## Аккаунт не выбирается в задачу
 
@@ -14,4 +14,4 @@
 
 Не учтена колонка занятости.
 
-Подробный разбор шагов — в [полном руководстве](https://telegain-guides.github.io/modules/account-manager/).
+Подробный разбор шагов — в [полном руководстве](https://teletraff-guides.github.io/modules/account-manager/).

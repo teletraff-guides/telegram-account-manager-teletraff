@@ -12,4 +12,4 @@
 **Можно ли работать без прокси?**  
 Нет.
 
-Остальные вопросы — в [общем FAQ](https://telegain-guides.github.io/faq/) и [полном руководстве](https://telegain-guides.github.io/modules/account-manager/).
+Остальные вопросы — в [общем FAQ](https://teletraff-guides.github.io/faq/) и [полном руководстве](https://teletraff-guides.github.io/modules/account-manager/).

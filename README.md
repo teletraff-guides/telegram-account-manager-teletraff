@@ -1,8 +1,8 @@
-# Менеджер Telegram-аккаунтов в TeleGain
+# Менеджер Telegram-аккаунтов в TeleTraff
 
 Менеджер аккаунтов — инвентарь всего парка: какие аккаунты есть, в каком они состоянии, какой прокси у каждого и кто сейчас занят задачей.
 
-**[Полное руководство →](https://telegain-guides.github.io/modules/account-manager/)**  ·  **[Официальная страница модуля →](https://telegain.net/ru/modules/account-manager)**
+**[Полное руководство →](https://teletraff-guides.github.io/modules/account-manager/)**  ·  **[Официальная страница модуля →](https://teletraff.com/ru/modules/account-manager)**
 
 ---
 
@@ -42,18 +42,18 @@
 
 ## Связанные модули
 
-- [Прокси-центр](https://github.com/telegain-guides/telegram-proxy-manager-telegain)
-- [Пулы аккаунтов](https://github.com/telegain-guides/telegram-account-pools-telegain)
-- [Прогрев аккаунтов](https://github.com/telegain-guides/telegram-account-warmup-telegain)
+- [Прокси-центр](https://github.com/teletraff-guides/telegram-proxy-manager-teletraff)
+- [Пулы аккаунтов](https://github.com/teletraff-guides/telegram-account-pools-teletraff)
+- [Прогрев аккаунтов](https://github.com/teletraff-guides/telegram-account-warmup-teletraff)
 
 ## Документация
 
-- [Полное руководство по модулю](https://telegain-guides.github.io/modules/account-manager/)
-- [Каталог всех модулей](https://telegain-guides.github.io/modules/)
-- [Диагностика запусков](https://telegain-guides.github.io/troubleshooting/)
-- [Ответственное использование](https://telegain-guides.github.io/responsible-use/)
+- [Полное руководство по модулю](https://teletraff-guides.github.io/modules/account-manager/)
+- [Каталог всех модулей](https://teletraff-guides.github.io/modules/)
+- [Диагностика запусков](https://teletraff-guides.github.io/troubleshooting/)
+- [Ответственное использование](https://teletraff-guides.github.io/responsible-use/)
 
 ---
 
-TeleGain — независимый сервис. Он не принадлежит Telegram, не аффилирован с Telegram FZ-LLC
+TeleTraff (ТелеТрафф) — независимый сервис. Он не принадлежит Telegram, не аффилирован с Telegram FZ-LLC
 и не является официальным продуктом мессенджера. Telegram — товарный знак своего правообладателя.
